@@ -1,0 +1,32 @@
+{
+    "owner": {
+        "username": "k-saravanan-2006"
+    },
+    "record": {
+        "CNAME": "main.d3ll07gn0ga8w8.amplifyapp.com"
+    }
+}
+```
+
+---
+
+## Step 4: Commit the file
+1. Scroll down
+2. Click **"Commit changes"** (green button)
+3. Click **"Commit directly to main"**
+4. Click **"Commit changes"**
+
+---
+
+## Step 5: Create Pull Request
+1. Click **"Contribute"** → **"Open pull request"**
+2. Click **"Create pull request"**
+3. Add title: `Add saravanan.is-a.dev`
+4. Click **"Create pull request"**
+
+---
+
+## Step 6: Wait for approval ⏳
+The is-a.dev team will review and approve in **1-2 days**. Once approved:
+```
+https://saravanan.is-a.dev ✅
